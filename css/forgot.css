@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../Images/pexel.jpg);
+    background-size: cover;
+    background-position: centre;
+    font-family: sans-serif;
+}
+
+img
+{
+    width: 70px;
+    border-radius: 50%;
+}
+
+.inputbox
+{
+    border-radius: 12px;
+    padding: 12px;
+    margin: 0px 0;
+    width: 95%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+.forgotbox
+{
+    width: 300px;
+    box-shadow: goldenrod;
+    background: rgb(250, 250, 252);
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+
+}
